@@ -1,2 +1,2 @@
 # Zeczec_fundraising
-Analysis of fundraising projects on "zeczec", which was final project of Data Science and Social Inquiry, 2021 fall, NTUECON.
+Homeworks and final project of Data Science and Social Inquiry, 2021 fall, NTUECON.
